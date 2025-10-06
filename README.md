@@ -19,7 +19,7 @@ Designed for traders and analysts who want to track **order flow, bid/offer imba
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](SET50.png)  
-*(Replace with your actual screenshot)*
+
 
 ---
 
