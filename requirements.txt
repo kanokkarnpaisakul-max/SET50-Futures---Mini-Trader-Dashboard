@@ -1,0 +1,15 @@
+# === Core packages for dashboard ===
+streamlit>=1.37.0
+pandas>=2.0.0
+plotly>=5.18.0
+
+# === Optional auto-refresh feature ===
+streamlit-autorefresh>=0.0.3
+
+# === Date & math utilities ===
+python-dateutil>=2.8.2
+
+# === Optional: สำหรับเชื่อม API หรือข่าวในอนาคต ===
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+feedparser>=6.0.10
