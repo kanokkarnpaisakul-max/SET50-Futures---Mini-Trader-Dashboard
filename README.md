@@ -18,7 +18,7 @@ Designed for traders and analysts who want to track **order flow, bid/offer imba
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]([SET50screen.png])  
+![Dashboard Screenshot]([SET50screen.png]https://github.com/kanokkarnpaisakul-max/SET50-Futures---Mini-Trader-Dashboard/blob/main/Screenshot%202025-10-06%20202947.png)  
 
 
 ---
